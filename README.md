@@ -3,14 +3,17 @@
 Open Package.swift in XCode
 
 Command + R : Run application and see output
+
 Command + U : Run tests
 
 
 Requirements: https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/GildedRoseRequirements.txt
+
 Source code: https://github.com/emilybache/GildedRose-Refactoring-Kata
 
-======================================
+
 Gilded Rose Requirements Specification
+
 ======================================
 
 Hi and welcome to team Gilded Rose. As you know, we are a small inn with a prime location in a
